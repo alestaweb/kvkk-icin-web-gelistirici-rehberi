@@ -262,10 +262,18 @@ Bir web projesini teslim etmeden önce:
 
 ---
 
+## Makaleler
+
+Rehberi tamamlayan, tek konuya odaklanan yazılar:
+
+- [Web formlarında KVKK: sık yapılan 12 hata ve doğrusu](docs/web-formlarinda-kvkk-12-hata.md)
+
+---
+
 ## Lisans
 
 Bu rehber MIT lisansı altında dağıtılır. Eğitim amaçlıdır; hukuki danışmanlık yerine geçmez.
 
 ## Katkı
 
-Mevzuat güncellendikçe içerik de güncellenmelidir. Düzeltme ve eklemeler için issue açabilirsiniz.
+Mevzuat güncellendikçe içerik de güncellenmelidir. Düzeltme ve eklemeler için issue açabilir, sorularınızı **Discussions** bölümünde sorabilirsiniz.
