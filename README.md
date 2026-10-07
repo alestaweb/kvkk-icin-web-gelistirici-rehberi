@@ -267,6 +267,7 @@ Bir web projesini teslim etmeden önce:
 Rehberi tamamlayan, tek konuya odaklanan yazılar:
 
 - [Web formlarında KVKK: sık yapılan 12 hata ve doğrusu](docs/web-formlarinda-kvkk-12-hata.md)
+- [Site yöneticileri için parola ve iki adımlı doğrulama: pratik rehber](docs/parola-ve-iki-adimli-dogrulama.md)
 
 ---
 
